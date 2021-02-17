@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Prompt
+  - CAMERA_FOLLOW_POINT
+  - startNr4
+  - startNr3
+  - startNr2
+  - startNr1
+  - StartNr1
+  - PlayerCamera
+  - resource1
+  - resource2
+  - resource3
+  - resource4
+  - resourceSpawnPoint
+  - ground
+  - gun
+  - enterPrompt
+  - Opponent
+  - level
+  - water
+  - playerMulti
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - Multi
+  - Wall
+  - Player
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 522471414beaeba45addcb17b5a248a6
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 4a76e8bd920272244b876ba52a13d34d
+  - enabled: 1
+    path: Assets/Scenes/Pensylwania.unity
+    guid: 328db4867298e4742b7ecd8e8f6a03bb
+  - enabled: 1
+    path: Assets/Scenes/Idaho.unity
+    guid: 65810b26ac2ec9c4988a7e7eee1eee6c
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 0766f6fa7de05a24a8bf48dcdcec4adf
+  - enabled: 0
+    path: Assets/Scenes/Virginia.unity
+    guid: a6c6fd43bf19328408c0c30a553b40c4
+  m_configObjects: {}
